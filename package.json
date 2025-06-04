@@ -3,10 +3,9 @@
 	"version": "1.2.1",
 	"description": "GitHub Action for building and releasing Electron apps",
 	"author": {
-		"name": "njzydark",
-		"email": "njzydark@gmail.com"
+		"name": "Romej"
 	},
-	"repository": "github:njzydark/action-electron-builder-pnpm",
+	"repository": "github:Romej/action-electron-builder-pnpm",
 	"license": "MIT",
 	"private": true,
 	"main": "./index.js",
